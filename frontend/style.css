@@ -48,6 +48,7 @@ header nav button {
 
 div {
     box-sizing: border-box;
+    margin: 0 auto;
 }
 
 div.first {
